@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\bubble_sort_algortihm\Source.c(18,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bubble_sort_algortihm.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\bubble_sort_algortihm\Debug\bubble_sort_algortihm.exe
