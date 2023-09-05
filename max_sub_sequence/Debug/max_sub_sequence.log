@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\max_sub_sequence\Source.c(15,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  max_sub_sequence.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\max_sub_sequence\Debug\max_sub_sequence.exe
