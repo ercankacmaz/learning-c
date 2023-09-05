@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sum_of_array_elements\Source.c(19,2): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sum_of_array_elements\Source.c(19,2): warning C4013: 'time' undefined; assuming extern returning int
+  my_lib.c
+  Generating Code...
+  sum_of_array_elements.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sum_of_array_elements\Debug\sum_of_array_elements.exe
