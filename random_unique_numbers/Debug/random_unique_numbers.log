@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\random_unique_numbers\Source.c(36,12): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\random_unique_numbers\Source.c(36,8): warning C4024: 'srand': different types for formal and actual parameter 1
+  random_unique_numbers.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\random_unique_numbers\Debug\random_unique_numbers.exe
