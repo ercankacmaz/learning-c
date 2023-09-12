@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\selection_sort\Source.c(19,18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\selection_sort\Source.c(19,13): warning C4024: 'swap': different types for formal and actual parameter 2
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\selection_sort\Source.c(18,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+  selection_sort.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\selection_sort\Debug\selection_sort.exe
