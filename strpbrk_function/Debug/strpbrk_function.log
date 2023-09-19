@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\strpbrk_function\Source.c(17,21): warning C4090: 'return': different 'const' qualifiers
+  strpbrk_function.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\strpbrk_function\Debug\strpbrk_function.exe
