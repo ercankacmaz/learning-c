@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\multi_dimensional_arrays\Source.c(44,27): warning C4047: 'function': 'int (*)[20]' differs in levels of indirection from 'int *'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\multi_dimensional_arrays\Source.c(44,26): warning C4024: 'set_rand_multi_20': different types for formal and actual parameter 1
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\multi_dimensional_arrays\Source.c(45,24): warning C4047: 'function': 'const int (*)[20]' differs in levels of indirection from 'int *'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\multi_dimensional_arrays\Source.c(45,23): warning C4024: 'print_multi_20': different types for formal and actual parameter 1
