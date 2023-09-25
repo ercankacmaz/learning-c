@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\clock_function\Source.c(29,52): warning C4090: 'function': different 'const' qualifiers
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\clock_function\Source.c(29,52): warning C4028: formal parameter 1 different from declaration
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\clock_function\Source.c(29,52): warning C4028: formal parameter 2 different from declaration
+  clock_function.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\clock_function\Debug\clock_function.exe
