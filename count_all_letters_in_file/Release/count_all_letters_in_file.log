@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\count_all_letters_in_file\Source.c(16,58): warning C4047: 'return': 'void *' differs in levels of indirection from 'const int'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\count_all_letters_in_file\Source.c(47,32): warning C4047: 'function': '_CoreCrtNonSecureSearchSortCompareFunction' differs in levels of indirection from 'void *(__cdecl *)(const void *,const void *)'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\count_all_letters_in_file\Source.c(47,29): warning C4024: 'qsort': different types for formal and actual parameter 4
+  Generating code
+  5 of 6 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  count_all_letters_in_file.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\count_all_letters_in_file\Release\count_all_letters_in_file.exe
