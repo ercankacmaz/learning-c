@@ -1,0 +1,5 @@
+﻿  date.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\date_library\date.c(215,46): warning C4047: 'return': 'Date *' differs in levels of indirection from 'int'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\date_library\date.c(270,14): warning C4002: too many arguments for function-like macro invocation 'isleap'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\date_library\date.c(272,13): warning C4002: too many arguments for function-like macro invocation 'isleap'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\date_library\date.c(286,24): warning C4047: 'return': 'int' differs in levels of indirection from 'Date *'
