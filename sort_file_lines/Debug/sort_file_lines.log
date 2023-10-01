@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(12,29): warning C4133: 'function': incompatible types - from 'const int *' to 'const char *'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(12,44): warning C4133: 'function': incompatible types - from 'const int *' to 'const char *'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(12,45): warning C4047: 'return': 'void *' differs in levels of indirection from 'int'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(43,34): warning C4047: 'function': '_CoreCrtNonSecureSearchSortCompareFunction' differs in levels of indirection from 'void *(__cdecl *)(const void *,const void *)'
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(43,31): warning C4024: 'qsort': different types for formal and actual parameter 4
+C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Source.c(51,23): warning C4018: '<': signed/unsigned mismatch
+  sort_file_lines.vcxproj -> C:\Users\ASUS\Desktop\Dersler\C Necati Hoca Kurs\Kodlar ve Notlar\sort_file_lines\Debug\sort_file_lines.exe

@@ -1,0 +1,53 @@
+Günümüzdeki sistemlerin en büyük problemi verimlilik ve yüksek enerji tüketimidir. 
+Bu problemleri minimize edecek ve en temel işlevi ile cisimlerin taşınabileceği 
+bir sistem nasıl tasarlanır, sorusuyla yola çıktık. Mekanik ya da elektromekanik 
+sistemler sürtünme sebepli yada elektriğin iletimi sırasında yaşanan enerji kayıpları 
+gibi durumlardan dolayı hem verimsiz hem de yüksek enerji tüketen sistemlerdir. 
+Araştırmalarımız sonucunda doğası gereği sürtünme kuvvetlerinden etkilenmeyen ve 
+minimum enerji tüketimi ile kontrol edilebilen manyetik sistemlerin geliştireceğimiz 
+proje için uygun bir seçim olduğuna karar verdik. Doğal mıknatıslar herhangi bir enerji 
+harcamadan zıt kutupları karşı karşıya getirilince birbirlerini çekip, aynı kutupları karşı 
+karşıya getirilince bribirlerini iterler.  Bu doğrultuda düşük maliyetli, sürdürülebilir, 
+değişimlere yüksek hızla cevap verebilen, manyetik levitasyon(MagLev) teknolojisini 
+kullanacağız. Manyetik levitasyon teknolojisi yüksek hızlı tren, manyetik rulman, manyetik 
+fırlatma platformları,rüzgar türbinleri gibi farklı uygulamalarda kullanılmaktadır. Biz de 
+yapacağımız manyetik levitasyon sistemi ile belirtilen uygulamalardakı araştırma alanlarına 
+destek sağlamayı hedefliyoruz.
+Sistemimizin temel çalışma prensibi, disk şeklindeki 3 büyük mıknatıs, platform üstündeki
+bobin ve diğer küçük mıknatısların manyetik etkileriyle temassız bir şekilde havada dengede 
+durması yöntemine dayanıyor.
+Platformdaki mıknatıslar aynı kutupların birbirini itmesi prensibi ile disk mıknatısı itecektir. 
+Bobinler ise sistemin sağladığı düşük gerilimler sonucunda, üstlerinden geçen akımın oluşturduğu 
+manyetik alan ile çekme kuvveti uygulayarak büyük mıknatısın havada kararlı bir şekilde asılı durmasını 
+sağlayacaktır.
+Yapacağımız çalışmalar sırasında karşılaşabileceğimiz en büyük zorluk sistemi kararlı halde tutmaktır. 
+Çünkü manyetik sistemler doğası gereği kararsızdır. Bu sorunu mikrodenetleyici ve bobin sürücülerinden 
+oluşan gömülü sistem tasarlayarak çözmeyi planlıyoruz. Kullanacağımız mikrodenetleyici yüksek kapasite 
+gereken matematiksel işlemleri çözmeye uygun olarak seçeceğiz. Aynı zamanda sistem gerçek zamanlı olarak 
+işlem yapacak.  Kullanacağımız sensörlerden lokal olarak alacağımız anlık mesafe verileri mikrodenetleyicide 
+işleyerek farklı kuvvetler altında sistemin kararlı kalması sağlanacaktır. Mikrodenetleyiciden gelen komutlar 
+ile bobinlere bağlı sürücüler kontrol edilecektir. Sisteme bir kuvvet uygulandığı taktirde sensörler 
+mıknatısların mesafe değişimini algılayacaktır. Mikrodenetleyici ise sensörlerden gelen veriyi işleyerek 
+mıknatısları istenen seviyede tutmak için bobinlerden geçen akımı kontrol edecektir. Böylece projenin 
+gerçekleştirilmesi sonucunda sistemin taşıyabileceği maksimum yük değerlerini aşmayan cisimler 
+karlı bir şekilde belirli bir mesafede mıknatıslar tarafından taşınabilecektir.
+Bu projede elektrodinamik olarak çalışan kaldırma platformu tasarlamayı amaçlıyoruz. Proje sonunda 
+sistemi kararlı tutabilen bir gömülü sistem tasarlayacağız. Gerçek zamanlı çalışan bu gömülü sistem 
+ile HyperLoop gibi sistemlerin önündeki kontrol probleminin çözümüne katkı sağlamayı hedefliyoruz. 
+Aynı zamanda henüz hayata geçirilmemiş olan Manyetik Levitasyon asansörleri, manyetik kalp pompası 
+gibi teknolojilere de katkı sağlayacak bir ön çalışma sunmak istiyoruz. Projede 3 farklı disk mıknatıs 
+havada tutulacaktır. 3 mıknatısta tek bir mikrodenetleyici tarafından kontrol edilecektir. Her bir mıknatıs 
+için kullanılan hall effect sensörlerinden elde edilen lokal mesafe veriler ile mıknatısların ayrı ayrı 
+kontrolü sağlanacaktır. Sistemdeki mıknatıslar her türlü dış etkiye karşı başlangıç durumunu koruyacaktır.
+Sistem, her mıknatısın 10 mm mesafede maksimum 400g taşıyabileceği şekilde tasarlanacaktır. 
+Tüm mıknatısların birlikte 1,2 kg taşımasını hedefliyoruz. Sürtünme etkilerinden bağımsız olacak 
+olan bu sistem enerji kayıpları düşük olacağı için yüksek verimliliğe sahip bir sistem ortaya koyacağız. 
+Sistemin aynı zamanda herhangi bir zeminle temassız olacağı nedeniyle titreşim etkileri azalacak ve 
+kullanılan malzeme ömürleri artacaktır. Bu gibi sistemlerde titreşim sebepli oluşan ölçüm hataları da minimuma 
+indirilebilecektir.  
+
+Yapacağımız çalışmalar ile ülkemizde emekleme aşamasında olan Manyetik Levitasyon teknolojilerine öncülük etmeyi 
+hedeflemekteyiz. Giderek yaygınlaşan hızlı tren ağlarına manyetik levitasyon trenler ekleyerek yüksek verimli, 
+sürdürülebilir ve ülke kaynaklarının daha verimli kullanılabildiği ulaşım seçeneklerine sahip olabiliriz. Hali 
+hazırda var olan uygulamaların yanında gelecekte yer alacağı farklı alanlarla da Manyetik Levitasyon 
+teknolojilerinde yer alabilmek ülkemiz adına büyük yararlar sağlayacaktır. 
